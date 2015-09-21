@@ -1,0 +1,360 @@
+<Google>
+  <Users>
+
+    <User Name = "Shantenu">
+      <Application>Speedtest.net</Application>
+      <Application>NYC Subway Time</Application>
+      <Application>Amazon Music</Application>
+      <Application>Inbox by Gmail</Application>
+      <Application>Twitter</Application>
+      <Application>Gmail</Application>
+      <Application>Rutgers University</Application>
+      <Application>Google</Application>
+      <Application>Microsoft Account</Application>
+      <Application>Apple Store</Application>
+    </User>
+    
+    <User Name = "Vivek">
+      <Application>GitHub</Application>
+      <Application>Microsoft Outlook Preview</Application>
+      <Application>Search Everything</Application>
+      <Application>WinZip</Application>
+      <Application>Instagram</Application>
+      <Application>Hangouts</Application>
+      <Application>Apple Store</Application>
+      <Application>Candy Crush</Application>      
+    </User>
+
+    <User Name = "Lakshmi">
+      <Application>Modi Run</Application>
+      <Application>Temple Run: Oz</Application>
+      <Application>Rutgers University</Application>
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>SwiftKey KeyBoard</Application>
+    </User>
+
+    <User Name = "Ankit">
+      <Application>Ultimate Sudoku</Application>
+      <Application>Sudoku Pro</Application>
+      <Application>Rutgers University</Application>
+      <Application>Racing Moto</Application>
+      <Application>YouTube Downloader</Application>
+      <Application>Webster's Dictionary Full</Application>
+      <Application>YouTube Creater Studio</Application>
+      <Application>Domino's Pizza USA</Application>
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bank of America</Application>
+    </User>
+
+    <User Name = "Suvigya">
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bank of America</Application>
+      <Application>Facebook Messenger</Application>
+      <Application>Google Search</Application>
+      <Application>Uber</Application>
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>OneDrive - Microsoft Corporation</Application>
+      <Application>Dropbox</Application>
+    </User>
+
+    <User Name = "Gayatri">
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>Crush</Application>
+      <Application>Dropbox</Application>
+      <Application>Rutgers University</Application>
+      <Application>Apple Store</Application>
+      <Application>Google Inbox</Application>
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bank of America</Application>
+    </User>
+
+    <User Name = "John">
+      <Application>Modi Run</Application>
+      <Application>Temple Run: Oz</Application>
+      <Application>Rutgers University</Application>
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>SwiftKey KeyBoard</Application>
+      <Application>Rutgers University</Application>
+      <Application>Apple Store</Application>
+      <Application>Google Inbox</Application>
+      <Application>2048</Application>
+    </User>
+
+    <User Name = "Nathanelle">
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bank of America</Application>
+    </User>
+
+    <User Name = "Gigi">
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Speedtest.net</Application>
+      <Application>NYC Subway Time</Application>
+      <Application>Amazon Music</Application>
+      <Application>Inbox by Gmail</Application>
+      <Application>Twitter</Application>
+      <Application>Candy Crush</Application>
+      <Application>Crush</Application>
+      <Application>Dropbox</Application>
+    </User>
+
+    <User Name = "Pricila">
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Speedtest.net</Application>
+      <Application>NYC Subway Time</Application>
+      <Application>Rutgers University</Application>
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>SwiftKey KeyBoard</Application>
+    </User>
+
+    <User Name = "Joseph">
+      <Application>Google Search</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bing Search</Application>
+      <Application>Facebook Messenger</Application>
+      <Application>Google Search</Application>
+      <Application>OneDrive - Microsoft Corporation</Application>
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>Crush</Application>
+      <Application>Dropbox</Application>
+    </User>
+
+    <User Name = "Mike">
+      <Application>Bing Search</Application>
+      <Application>Facebook Messenger</Application>
+      <Application>Google Search</Application>
+      <Application>OneDrive - Microsoft Corporation</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Microsoft Office Mobile</Application>
+      <Application>SwiftKey KeyBoard</Application>
+      <Application>Microsoft Account</Application>
+      <Application>Apple Store</Application>
+      <Application>Google Inbox</Application>
+      <Application>2048</Application>
+    </User>
+
+    <User Name = "Rachel">
+      <Application>Office 365</Application>
+      <Application>Microsoft Outlook Preview</Application>
+      <Application>Google Camera</Application>
+      <Application>VLC for Android Beta</Application>
+      <Application>CCleaner</Application>
+      <Application>Speed Test</Application>
+      <Application>Hungama Music</Application>
+      <Application>Need for Speed- Most Wanted Pro</Application>
+      <Application>Web Browser and Explorer</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>ES File Explorer</Application>
+    </User>
+
+    <User Name = "Sheldon">
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>CCleaner</Application>
+      <Application>Speed Test</Application>
+      <Application>Hungama Music</Application>
+      <Application>Need for Speed- Most Wanted Pro</Application>
+      <Application>Microsoft Account</Application>
+      <Application>NYC Subway Time</Application>
+      <Application>Amazon Music</Application>
+      <Application>Inbox by Gmail</Application>
+      <Application>Twitter</Application>
+    </User>
+
+    <User Name = "Monica">
+      <Application>Modi Run</Application>
+      <Application>Temple Run: Oz</Application>
+      <Application>Rutgers University</Application>
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>Rutgers University</Application>
+      <Application>Rutgers University</Application>
+      <Application>Google</Application>
+      <Application>Microsoft Account</Application>
+      <Application>Apple Store</Application>
+    </User>
+
+    <User Name = "Joey">
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>2048</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bank of America</Application>
+    </User>
+
+    <User Name = "Chandler">
+      <Application>Hungama Music</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Virus Removal Software</Application>
+      <Application>CCleaner</Application>
+      <Application>Speed Test</Application>
+      <Application>Hungama Music</Application>
+      <Application>Need for Speed- Most Wanted Pro</Application>
+      <Application>Microsoft Account</Application>
+      <Application>OneDrive - Microsoft Corporation</Application>
+      <Application>4 in a row</Application>
+      <Application>UNO and Friends</Application>
+      <Application>Microsoft Office Mobile</Application>
+    </User>
+
+    <User Name = "Leonard">
+      <Application>Google Search</Application>
+      <Application>Candy Crush</Application>
+      <Application>New Candy Crush</Application>
+      <Application>Bing Search</Application>
+      <Application>Facebook Messenger</Application>
+      <Application>Google Search</Application>
+      <Application>OneDrive - Microsoft Corporation</Application>
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>Crush</Application>
+      <Application>Dropbox</Application>
+    </User>
+
+    <User Name = "Leslie">
+      <Application>GitHub</Application>
+      <Application>Candy Crush</Application>
+      <Application>Google Maps</Application>
+      <Application>Rutgers</Application>
+      <Application>Gmail</Application>
+      <Application>Cut the Rope</Application>
+      <Application>Temple Run</Application>
+      <Application>Clash of Clans</Application>
+      <Application>Facebook</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Eric">
+      <Application>Zomato</Application>
+      <Application>Candy Crush Soda Saga</Application>
+      <Application>Google Maps</Application>
+      <Application>Rutgers</Application>
+      <Application>Gmail</Application>
+      <Application>Cut the Rope</Application>
+      <Application>Temple Run Oz</Application>
+      <Application>Clash of Clans</Application>
+      <Application>Facebook</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Watson">
+      <Application>Whatsapp</Application>
+      <Application>Inbox</Application>
+      <Application>Google Maps</Application>
+      <Application>Rutgers</Application>
+      <Application>Gmail</Application>
+      <Application>Cut the Rope</Application>
+      <Application>Engadget</Application>
+      <Application>Clash of Clans</Application>
+      <Application>LinkedIn</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Sherlock">
+      <Application>Whatsapp</Application>
+      <Application>Inbox</Application>
+      <Application>Google Maps</Application>
+      <Application>Rutgers</Application>
+      <Application>Facebook</Application>
+      <Application>Cut the Rope</Application>
+      <Application>Engadget</Application>
+      <Application>Hangouts</Application>
+      <Application>LinkedIn</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Sherlock">
+      <Application>Youtube</Application>
+      <Application>Spotify</Application>
+      <Application>Google Maps</Application>
+      <Application>Instagram</Application>
+      <Application>Facebook</Application>
+      <Application>Cut the Rope</Application>
+      <Application>Engadget</Application>
+      <Application>Hangouts</Application>
+      <Application>LinkedIn</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Penny">
+      <Application>Twitter</Application>
+      <Application>Spotify</Application>
+      <Application>Google Maps</Application>
+      <Application>Instagram</Application>
+      <Application>Facebook</Application>
+      <Application>Cut the Rope</Application>
+      <Application>Dropbox</Application>
+      <Application>Hangouts</Application>
+      <Application>Drive</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Howard">
+      <Application>Engadget</Application>
+      <Application>Spotify</Application>
+      <Application>Google Maps</Application>
+      <Application>Instagram</Application>
+      <Application>Facebook</Application>
+      <Application>Pintrest</Application>
+      <Application>Dropbox</Application>
+      <Application>Hangouts</Application>
+      <Application>Drive</Application>
+      <Application>Snapchat</Application>
+    </User>
+
+    <User Name = "Raj">
+      <Application>Engadget</Application>
+      <Application>Spotify</Application>
+      <Application>Google Maps</Application>
+      <Application>Instagram</Application>
+      <Application>Whatsapp</Application>
+      <Application>Pintrest</Application>
+      <Application>Dropbox</Application>
+      <Application>Hangouts</Application>
+      <Application>Drive</Application>
+      <Application>Snapchat</Application>
+    </User>
+    
+  </Users>
+</Google>
