@@ -60,7 +60,7 @@ void BFS::BFSfunc(int s)
 
 //Function to read the data from the text file and create the graph
 void BFS::createGraph(){
-	string filename = "C:/Users/Suvigya/Desktop/UserGraph.txt";
+	string filename = "AppRecommendation/UserGraph.txt";
 	string tmp1;
 	string tmp2;
 	int arraySize = 0;
