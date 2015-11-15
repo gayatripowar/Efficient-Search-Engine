@@ -4,7 +4,7 @@
 //								//
 //			Project No. 13				//
 //								//
-// 	By- Ankit Shah, Gayatri Powar, Suvigya Tripathi		//
+// 	By- Gayatri Powar, Suvigya Tripathi, Ankit Shah 	//
 //								//
 //////////////////////////////////////////////////////////////////
 
